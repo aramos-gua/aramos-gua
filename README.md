@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Alejandro David Ramos Alvarez, but you can call me Alex
 
-Im passionate about cybersecurity, tech gadgets/components and languages!
+Passionate about cybersecurity, tech gadgets/components and languages!
 
 - 🔭 I’m currently working on attaining my RNCP accredited diploma in Computer Science at 42-London.
 
