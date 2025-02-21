@@ -1,8 +1,15 @@
 ## Hi there 👋 I'm Alejandro David Ramos Alvarez, but you can call me Alex
 
-- 🔭 I’m currently working on get_next_line which is a function that reads a buffer-size amount of date (stated at compilation time) from a file descriptor and outputs the first line of that file. If you call the function several times, you get more lines as output. 
+Im passionate about cybersecurity, tech gadgets/components and languages!
+
+- 🔭 I’m currently working on attaining my RNCP accredited diploma in Computer Science at 42-London.
 
 - 🌱 I’m currently learning about Networking and Cibersecurity following the CISCO academy and also german on Duolingo.
+
+- ⚡ I recently built a program capable of recreating printf in C language. Check it out here: [https://github.com/Alejandro-Ramos-42/printf]
+
+- 👯 I’m looking to collaborate on YouTube, explaining code using different languages:
+  - Spanish | English | French | Italian 
 
 <!--
 **Alejandro-Ramos-42/Alejandro-Ramos-42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
