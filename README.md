@@ -4,7 +4,7 @@ Passionate about cybersecurity, tech gadgets/components and languages!
 
 - 🔭 I’m currently working on attaining my RNCP accredited diploma in Computer Science at 42-London.
 
-- 🌱 I’m currently learning about Networking and Cibersecurity following the CISCO academy and also german on Duolingo.
+- 🌱 I’m currently learning about Networking and Cybersecurity following the CISCO academy and also german on Duolingo.
 
 - ⚡ I recently built a program capable of recreating printf using C. Check it out [here](https://github.com/Alejandro-Ramos-42/printf)
 
