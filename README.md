@@ -8,7 +8,7 @@ Passionate about cybersecurity, tech gadgets/components and languages!
 
 - ⚡ I recently built a program capable of recreating printf using C. Check it out [here](https://github.com/Alejandro-Ramos-42/printf)
 
-- 👯 I’m looking to collaborate on YouTube, explaining code using different languages:
+- 👯 Interested in explaining code using different languages:
   - Spanish | English | French | Italian
 <br><br>    
  <p align="center">
