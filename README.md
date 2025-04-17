@@ -66,12 +66,12 @@
   <summary><strong>Cybersecurity</strong></summary>
   <p align="center">
     <a href="https://github.com/aramos-gua">
-    <code><img title="Kali Linux" width="5%" src="https://skillicons.dev/icons?i=kali"></code>
-    <code><img title="nmap" width="5%" src="nmap.jpeg"></code>
-    <img title="Maltego" width="5%" src="maltego.png">
-    <img title="Tor" width="5%" src="tor.png">
-    <img title="Metasploit" width="5%" style="background: blue" src="metasploit.png">
-    <img title="Bash" width="5%" src="bash.png">
+    <code><img title="Kali Linux" width="5%" src="./cyber_logos/kali.png"></code>
+    <code><img title="nmap" width="5%" src="./cyber_logos/nmap.jpeg"></code>
+    <img title="Maltego" width="5%" src="./cyber_logos/maltego.png">
+    <img title="Tor" width="5%" src="./cyber_logos/tor.png">
+    <img title="Metasploit" width="5%" src="./cyber_logos/metasploit.png">
+    <img title="Bash" width="5%" src="./cyber_logos/bash.png">
     </a>
   </p>
 </details>
