@@ -16,7 +16,7 @@
   <!-- Streak stat card (larger middle) -->
   <p align='center'>
 <a href="https://github.com/aramos-gua"><img src="https://github-readme-streak-stats-six-delta-21.vercel.app?user=aramos-gua&theme=dark&border_radius=10&short_numbers=true" alt="GitHub Streak" /></a>
-<br><br>
+<br>
 
   <!-- Languages used stat card -->
   <a href="https://github.com/aramos-gua">
