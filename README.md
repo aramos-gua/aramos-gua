@@ -63,6 +63,9 @@
 <details>
   <summary><strong>Cybersecurity</strong></summary>
   <p align="center">
+	  <a href="https://tryhackme.com/p/aramos.gua">
+	    <img title="TryHackMe" src="https://github.com/aramos-gua/aramos-gua/blob/main/assets/tryhackme-badge.png" alt="TryHackMe Badge">
+	  <br><br>
     <a href="https://github.com/aramos-gua">
     <code><img title="Kali Linux" width="5%" src="./cyber_logos/kali.png"></code>
     <code><img title="nmap" width="5%" src="./cyber_logos/nmap.png"></code>
