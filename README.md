@@ -31,7 +31,7 @@
   <summary><strong>Certifications</strong></summary>
   <p align="center">
     <a href="https://github.com/aramos-gua">
-    <code><img title="CompTIA A+" width="5%" src="./certs/Comptia A+.png"></code>
+    <code><img title="CompTIA A+" width="8%" src="./certs/Comptia A+.png"></code>
     </a>
   </p>
 </details>
