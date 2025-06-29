@@ -4,8 +4,8 @@
 
 - 🔐 Passionate about cybersecurity, tech gadgets/components, and languages<br>
 - 🎓 Currently working on attaining my RNCP-accredited diploma in Computer Science at 42 London<br>
-- 🌐 Learning Networking and Cybersecurity through the CISCO Academy — and German on Duolingo 🇩🇪<br>
-- 💻 Recently built a C program that recreates `printf` — [Check it out here](https://github.com/aramos-gua/printf)
+- 🌐 Learning Cybersecurity through TryHackMe and HackTheBox — and German on Duolingo 🇩🇪<br>
+- 💻 Recently built a C program that recreates the pipes behaviour in the terminal — [Check it out here](https://github.com/aramos-gua/pipex)
 <br>
 <br>
 
