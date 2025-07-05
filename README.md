@@ -33,7 +33,7 @@
     <a href="https://www.credly.com/badges/85728add-e13b-411b-978a-feac03881608/public_url">
     <code><img title="CompTIA A+" width="8%" src="./certs/Comptia A+.png"></code>
     </a>
-   <!--<a href="https://www.credly.com/badges/db511bcc-331f-4def-8e64-ae429f666230/public_url">-->
+    <a href="https://www.credly.com/badges/db511bcc-331f-4def-8e64-ae429f666230/public_url">
     <code><img title="CC" width="8%" src="./certs/CC.png"></code>
     </a>
   </p>
