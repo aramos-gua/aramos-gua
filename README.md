@@ -31,13 +31,13 @@
   <summary><strong>Certifications</strong></summary>
   <p align="center">
     <a href="https://cp.certmetrics.com/comptia/en/public/verify/credential/8EV34FTS8M4Q2VJJ">
-    <code><img title="CompTIA A+" width="8%" src="./certs/Comptia A+.png"></code>
+    <code><img title="CompTIA A+" width="8%" src="./certs/CompTIA-A+.png"></code>
     </a>
     <a href="https://www.credly.com/badges/db511bcc-331f-4def-8e64-ae429f666230/public_url">
     <code><img title="ISC2 CC" width="8%" src="./certs/CC.png"></code>
     </a>
 	<a href="https://cp.certmetrics.com/comptia/en/public/verify/credential/2070d6bd4d1e470c9b5f2d67e3e4da26">
-    <code><img title="CompTIA Security+" width="8%" src="./certs/Comptia Security+.png"></code>
+    <code><img title="CompTIA Security+" width="8%" src="./certs/CompTIA-Security+.png"></code>
     </a>
   </p>
 </details>
