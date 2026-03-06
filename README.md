@@ -19,10 +19,10 @@
 <br>
 
   <!-- Languages used stat card -->
-  <a href="https://github.com/aramos-gua">
+  <!--<a href="https://github.com/aramos-gua">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aramos-gua&layout=compact&theme=dark" width="350" />
   </a>
-</p>
+</p> -->
 </details>
 
 <!--##############################################################################################################################################################################-->
