@@ -52,6 +52,51 @@
 </details>
 
 <details>
+  <summary><strong>Projects</strong></summary>
+  <p align="center">
+    <a href="https://github.com/aramos-gua/libft">
+    <code><img title="Libft" width="8%" src="./42_badges/libftm.png"></code>
+    </a>
+	<a href="https://github.com/aramos-gua/born2beroot">
+    <code><img title="Born2beroot" width="8%" src="./42_badges/born2berootm.png"></code>
+    </a>
+	<a href="https://github.com/aramos-gua/printf">
+    <code><img title="ft_printf" width="8%" src="./42_badges/ft_printfm.png"></code>
+    </a>
+	</a>
+	<a href="https://github.com/aramos-gua/get_next_line">
+    <code><img title="get_next_line" width="8%" src="./42_badges/get_next_linem.png"></code>
+    </a>
+	</a>
+	<a href="https://github.com/aramos-gua/push_swap">
+    <code><img title="push_swap" width="8%" src="./42_badges/push_swapn.png"></code>
+    </a>
+	</a>
+	<a href="https://github.com/aramos-gua/fdf">
+    <code><img title="Fdf" width="8%" src="./42_badges/fdfm.png"></code>
+    </a>
+	</a><br>
+	<a href="https://github.com/aramos-gua/pipex">
+    <code><img title="pipex" width="8%" src="./42_badges/pipexm.png"></code>
+    </a>
+	</a>
+	<a href="https://github.com/aramos-gua/philosophers">
+    <code><img title="philosophers" width="8%" src="./42_badges/philosophersn.png"></code>
+    </a>
+	</a>
+	<a href="https://github.com/aramos-gua/minishell">
+    <code><img title="minishell" width="8%" src="./42_badges/minishelln.png"></code>
+    </a>
+	<a href="https://github.com/aramos-gua/net_practice">
+    <code><img title="NetPractice" width="8%" src="./42_badges/netpracticem.png"></code>
+    </a>
+	<a href="https://github.com/aramos-gua/miniRT">
+    <code><img title="miniRT" width="8%" src="./42_badges/minirtn.png"></code>
+    </a>
+	</a>
+</details>
+
+<details>
   <summary><strong>Operating Systems</strong></summary>
   <p align="center">
     <a href="https://github.com/aramos-gua">
