@@ -1,4 +1,4 @@
-<h2 align="center"> Hola, Hello, Salut, Ciao, Hallo! </h2>
+<h2 align="center"> Hola, Hello, Bonjour, Ciao, Hallo! </h2>
 
 <!--##############################################################################################################################################################################-->
 
@@ -6,24 +6,9 @@
 - 🎓 Currently working on attaining my RNCP-accredited diploma in Computer Science specialised in Cybersecurity at 42 London<br>
 - 🌐 Learning Cybersecurity through TryHackMe and HackTheBox - and languages on Duolingo <br>
 - 💻 Recently built a shell using C - [Check it out here](https://github.com/aramos-gua/minishell)
+- 📧 Check how to identify phishing emails on my [Phishing Reports](https://github.com/aramos-gua/phishing_reports)
 <br>
 <br>
-
-<!--##############################################################################################################################################################################-->
-
-<details>
-<summary><strong>Stats</strong></summary>
-  <!-- Streak stat card (larger middle) -->
-  <p align='center'>
-<a href="https://github.com/aramos-gua"><img src="https://github-readme-streak-stats-six-delta-21.vercel.app?user=aramos-gua&theme=dark&border_radius=10&short_numbers=true" alt="GitHub Streak" /></a>
-<br>
-
-  <!-- Languages used stat card -->
-  <!--<a href="https://github.com/aramos-gua">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aramos-gua&layout=compact&theme=dark" width="350" />
-  </a>
-</p> -->
-</details>
 
 <!--##############################################################################################################################################################################-->
 
@@ -50,6 +35,12 @@
   <p align="center">
     <a href="https://github.com/aramos-gua">
     <code><img title="C programming" width="5%" src="https://skillicons.dev/icons?i=c"></code>
+    </a>
+	<a href="https://github.com/aramos-gua">
+    <code><img title="C++ programming" width="5%" src="https://skillicons.dev/icons?i=cpp"></code>
+    </a>
+	<a href="https://github.com/aramos-gua">
+    <code><img title="Python programming" width="5%" src="https://skillicons.dev/icons?i=python"></code>
     </a>
   </p>
 </details>
@@ -133,7 +124,7 @@
 </details>
 
 <details>
-  <summary><strong>Cybersecurity</strong></summary>
+  <summary><strong>Cybersecurity Tools</strong></summary>
   <p align="center">
 	  <a href="https://tryhackme.com/p/aramos.gua">
 	    <img title="TryHackMe" src="https://github.com/aramos-gua/aramos-gua/blob/main/assets/tryhackme-badge.png" alt="TryHackMe Badge">
