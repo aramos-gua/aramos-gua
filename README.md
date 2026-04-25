@@ -57,7 +57,7 @@
 <details>
   <summary><strong>Cybersecurity Projects</strong></summary>
   <p align="center">
-   <a href="https://github.com/aramos-gua/cybersecurity">
+   <a href="https://github.com/aramos-gua/phishing_reports">
     <code><img title="Phishing Reports" width="6%" src="./cyber_logos/phishing.png"></code>
     </a>
   </p>
