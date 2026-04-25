@@ -126,10 +126,11 @@
 <details>
   <summary><strong>Cybersecurity Tools</strong></summary>
   <p align="center">
-	  <a href="https://tryhackme.com/p/aramos.gua">
+	  <!--a href="https://tryhackme.com/p/aramos.gua">
 	    <img title="TryHackMe" src="https://github.com/aramos-gua/aramos-gua/blob/main/assets/tryhackme-badge.png" alt="TryHackMe Badge">
-	  <br><br>
-    <a href="https://github.com/aramos-gua">
+	  <br><br> -->
+	  <img width="350" height="181" alt="TryHackMe" src="https://github.com/user-attachments/assets/0f1a6e20-23dc-4369-9e33-db35ac137786" />
+    <a href="https://github.com/aramos-gua"><br>
     <code><img title="Kali Linux" width="5%" src="./cyber_logos/kali.png"></code>
     <code><img title="nmap" width="5%" src="./cyber_logos/nmap.png"></code>
     <code><img title="Maltego" width="5%" src="./cyber_logos/maltego.png"></code>
