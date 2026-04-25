@@ -3,9 +3,9 @@
 <!--##############################################################################################################################################################################-->
 
 - 🔐 Passionate about cybersecurity, tech gadgets/components, and languages<br>
-- 🎓 Currently working on attaining my RNCP-accredited diploma in Computer Science at 42 London<br>
-- 🌐 Learning Cybersecurity through TryHackMe and HackTheBox — and German on Duolingo 🇩🇪<br>
-- 💻 Recently built a C program that recreates the pipes behaviour in the terminal — [Check it out here](https://github.com/aramos-gua/pipex)
+- 🎓 Currently working on attaining my RNCP-accredited diploma in Computer Science specialised in Cybersecurity at 42 London<br>
+- 🌐 Learning Cybersecurity through TryHackMe and HackTheBox - and languages on Duolingo <br>
+- 💻 Recently built a shell using C - [Check it out here](https://github.com/aramos-gua/minishell)
 <br>
 <br>
 
@@ -34,7 +34,7 @@
     <code><img title="CompTIA A+" width="8%" src="./certs/CompTIA-A+.png"></code>
     </a>
     <a href="https://www.credly.com/badges/db511bcc-331f-4def-8e64-ae429f666230/public_url">
-    <code><img title="ISC2 CC" width="8%" src="./certs/CC.png"></code>
+    <code><img title="ISC2 CC" width="10%" src="./certs/CC.png"></code>
     </a>
 	<a href="https://github.com/aramos-gua">
     <code><img title="Accredited Samsung Engineer" width="8%" src="./certs/Samsung-Engineer.png"></code>
@@ -55,7 +55,16 @@
 </details>
 
 <details>
-  <summary><strong>Projects</strong></summary>
+  <summary><strong>Cybersecurity Projects</strong></summary>
+  <p align="center">
+   <a href="https://github.com/aramos-gua/cybersecurity">
+    <code><img title="Phishing Reports" width="6%" src="./cyber_logos/phishing.png"></code>
+    </a>
+  </p>
+</details>
+
+<details>
+  <summary><strong>Programming Projects</strong></summary>
   <p align="center">
     <a href="https://github.com/aramos-gua/libft">
     <code><img title="Libft" width="8%" src="./42_badges/libftm.png"></code>
